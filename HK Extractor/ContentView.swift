@@ -49,12 +49,14 @@ struct ContentView: View {
                                         await manager.exportAllData()
                                     }
                                 }
+                                .buttonStyle(.borderless)
                             }
 
                             if let url = manager.allDataZipURL {
                                 ShareLink(item: url) {
                                     Image(systemName: "square.and.arrow.up")
                                 }
+                                .buttonStyle(.borderless)
                             }
                         }
 
@@ -89,12 +91,14 @@ struct ContentView: View {
                                             await manager.exportData(for: dataType)
                                         }
                                     }
+                                    .buttonStyle(.borderless)
                                 }
 
                                 if let url = state.fileURL, state.sampleCount > 0 {
                                     ShareLink(item: url) {
                                         Image(systemName: "square.and.arrow.up")
                                     }
+                                    .buttonStyle(.borderless)
                                 }
                             }
 

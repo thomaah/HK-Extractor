@@ -254,7 +254,7 @@
 				CODE_SIGN_ENTITLEMENTS = "HK Extractor/HK Extractor.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = T8Q4J6BT54;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHealthShareUsageDescription = "This app reads your heart rate data to export as CSV";
@@ -288,7 +288,7 @@
 				CODE_SIGN_ENTITLEMENTS = "HK Extractor/HK Extractor.entitlements";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = T8Q4J6BT54;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHealthShareUsageDescription = "This app reads your heart rate data to export as CSV";
